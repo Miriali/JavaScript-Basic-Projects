@@ -7,7 +7,7 @@ In this repository you can find projects that will be useful to improve your ski
 - [15 JavaScript Projects](https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/)
 - [JSBEGINNERS](https://jsbeginners.com/javascript-projects-for-beginners/)
 
-*Let's keep learning and improving together, happy coding.* :Nerd_face:
+*Let's keep learning and improving together, happy coding.*
 
 ### Content :clipboard:
 Among the projects you will find:
