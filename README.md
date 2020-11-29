@@ -45,7 +45,7 @@ Among the projects you will find:
 #### *- Grocery bud* 
 ![](https://scontent.fccs3-1.fna.fbcdn.net/v/t1.15752-9/125285695_304551923884412_5734509767540493144_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=qt_1ZM5XHBUAX8AQgIA&_nc_ht=scontent.fccs3-1.fna&oh=953a3927207875616a5ff5af252eb497&oe=5FD16A05)
 
-#### *- For validation* 
+#### *- Form validation* 
 ![](https://scontent.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/127580640_2799968590262344_3221894149756081776_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=52saZX-6i2EAX-B_DbI&tp=1&oh=7aa8866b031642dcfe6bcc508a70b464&oe=5FED3F2B&ig_cache_key=MjQ1MjkzNTczNjQ4NDQ1MTE0OA%3D%3D.2)
 
 ### Built With
